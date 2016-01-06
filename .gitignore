@@ -1,0 +1,9 @@
+# Generic
+thumbs.db
+.DS_Store
+*~
+*.swp
+
+# Node.js
+npm-debug.log
+node_modules

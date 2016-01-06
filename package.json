@@ -1,0 +1,21 @@
+{
+  "name": "haarcascade-opencv-node",
+  "version": "1.0.0",
+  "description": "Perform Haar cascade classification using Node",
+  "main": "cascade.js",
+  "scripts": {
+    "start": "node cascade",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "opencv",
+    "computer",
+    "vision",
+    "haar"
+  ],
+  "author": "Luke Mitchell",
+  "license": "MIT",
+  "dependencies": {
+    "opencv": "^4.0.0"
+  }
+}
