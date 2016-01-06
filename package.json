@@ -13,6 +13,10 @@
     "vision",
     "haar"
   ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/font-detective/haarcascade-opencv-node.git"
+  },
   "author": "Luke Mitchell",
   "license": "MIT",
   "dependencies": {
